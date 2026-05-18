@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "873491324738",
+    "project_id": "chikidepot",
+    "storage_bucket": "chikidepot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873491324738:android:ac044423ccaea4dcc7f2db",
+        "android_client_info": {
+          "package_name": "com.example.depot_chiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873491324738-cvsprcs7lhhisg3hjod2ptem7uvlkvi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTkmuPhvD-O3R3-Oya4RozAinzWi6NPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873491324738-cvsprcs7lhhisg3hjod2ptem7uvlkvi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873491324738-se3dlh69cv83qklhn5k02b2gr2vi4nao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.depotChiki"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
