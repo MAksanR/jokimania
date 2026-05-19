@@ -1,4 +1,4 @@
-#JOKI MANIA
+JOKI MANIA
 
 A new Flutter project.
 
